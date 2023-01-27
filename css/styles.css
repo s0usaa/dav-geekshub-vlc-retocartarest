@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/imgmain2.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.main-home{
+    height: 100vh;
+    padding: 0;
+}
+
+@media (min-width: 660px){
+    body{
+        background-image: url(../img/Fondopagprincipal.webp);
+    }
+}
