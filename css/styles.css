@@ -3,11 +3,16 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    margin-top: 10vh;
 }
 
 .main-home{
     height: 100vh;
     padding: 0;
+}
+
+.navbar-toggler{
+    background-color: white;
 }
 
 @media (min-width: 660px){
