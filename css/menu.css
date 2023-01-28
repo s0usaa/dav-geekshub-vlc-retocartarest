@@ -1,0 +1,11 @@
+@media (max-width:550px){
+    .img-top2{
+        display: none;
+    }
+}
+
+@media (min-width:551px){
+    .img-top1{
+        display: none;
+    }
+}
