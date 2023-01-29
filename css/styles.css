@@ -15,7 +15,7 @@ body{
     background-color: white;
 }
 
-@media (min-width: 660px){
+@media (min-width: 700px){
     body{
         background-image: url(../img/Fondopagprincipal.webp);
     }

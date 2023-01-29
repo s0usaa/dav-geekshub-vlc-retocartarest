@@ -1,17 +1,17 @@
-
 body{
     margin-top: 6vh;
     background-color: black;
 }
+
 .img-top{
     height: 30vh;
-    background-image: url(../img/Imghamburmenu.webp);
+    background-image: url(../img/contacto/contacto-720x390.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
-.text-menu{
+.text-contact{
     height: 100%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -24,8 +24,6 @@ body{
 
 @media (min-width:700px){
     .img-top{
-        background-image: url(../img/ImgMenuGrande.webp);
+        background-image: url(../img/contacto/ContactosGrande.jpeg);
     }
 }
-
-
